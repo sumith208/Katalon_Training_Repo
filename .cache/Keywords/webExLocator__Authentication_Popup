@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "491EE1B07616E9ED0B76F80025C8EE7D",
+  "keywordClasses": [
+    {
+      "name": "webExLocator.Authentication_Popup",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

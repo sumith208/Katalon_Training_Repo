@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0F62E2F55C5B776AE6D464B1401A56A7",
+  "keywordClasses": [
+    {
+      "name": "webExLocator.VerifyPriceLocator",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

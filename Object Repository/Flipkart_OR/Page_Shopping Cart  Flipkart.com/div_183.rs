@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_183</name>
+   <tag></tag>
+   <elementGuidId>334be084-bf48-4ff2-9a3b-212159852062</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div/div/div[3]/div/div[3]/div[2]/div[2]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._25b18c._1_-wJi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>abf5ecea-4157-4a83-a8c2-8ee38d5145e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_25b18c _1_-wJi</value>
+      <webElementGuid>bd96749c-b1e4-4a1e-9b27-0723844c95ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹183</value>
+      <webElementGuid>727e9546-6921-48d3-8037-3a4f7efdc313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_1Er18h&quot;]/div[@class=&quot;_6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3 col-12-12&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg col-12-12&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;zab8Yh _10k93p&quot;]/div[@class=&quot;_22JTBR _2fZkbP&quot;]/div[@class=&quot;_2yY_Lt&quot;]/div[@class=&quot;_3S0u9p&quot;]/div[@class=&quot;_25b18c _1_-wJi&quot;]</value>
+      <webElementGuid>5189cfc2-3bb6-465d-98ce-dbb234abcf2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div/div/div[3]/div/div[3]/div[2]/div[2]/div[4]</value>
+      <webElementGuid>4c865a05-e96a-4f3d-8ffb-4106d959ddb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>100e8c5b-a025-4ff5-8cad-5db7b779039a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '₹183' or . = '₹183')]</value>
+      <webElementGuid>3f21a377-845d-4c8e-bb32-a9e8b58658e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

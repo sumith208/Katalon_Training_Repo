@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Newest First__396cs4</name>
+   <tag></tag>
+   <elementGuidId>c3223d01-c821-427a-a9ed-76608b1d1391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@title='Search for Products, Brands and More']//*[name()='svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img._396cs4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c71fbe5d-3933-485f-a074-e28d3a28bb25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>eager</value>
+      <webElementGuid>e4d9e87e-a4e1-4d57-bc46-bf09ca26b1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_396cs4</value>
+      <webElementGuid>4f4b9735-a493-428f-91af-dd28a87a0383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>POCO X5 5G (Supernova Green, 256 GB)</value>
+      <webElementGuid>1847b130-51f8-49e0-a452-52da266f5310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/i/0/-original-imagnqpnhtwr8chu.jpeg?q=70</value>
+      <webElementGuid>af118dea-3f5c-42ee-9b07-c2108b28d542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_36fx1h _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_13oc-S&quot;]/div[1]/div[@class=&quot;_2kHMtA&quot;]/a[@class=&quot;_1fQZEK&quot;]/div[@class=&quot;MIXNux&quot;]/div[@class=&quot;_2QcLo-&quot;]/div[1]/div[@class=&quot;CXW8mj&quot;]/img[@class=&quot;_396cs4&quot;]</value>
+      <webElementGuid>d18a3908-cba3-48e6-a480-03db81dcb961</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div/div/a/div/div/div/div/img</value>
+      <webElementGuid>52a3cd43-05dd-4bdb-a422-a395ae86660e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='POCO X5 5G (Supernova Green, 256 GB)']</value>
+      <webElementGuid>20ac9704-74f5-4567-9375-632b5621ff61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/img</value>
+      <webElementGuid>d8fea90d-b8ab-4b1f-abce-440f062deb51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'POCO X5 5G (Supernova Green, 256 GB)' and @src = 'https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/i/0/-original-imagnqpnhtwr8chu.jpeg?q=70']</value>
+      <webElementGuid>861d0ade-3800-48f7-9a9c-af135486d27d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
